@@ -23,3 +23,4 @@ gcc student_manager.c -o student_manager `pkg-config --cflags --libs gtk+-3.0`
 ### Run the program:  
 ```sh
 ./student_manager
+
